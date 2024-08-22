@@ -1,4 +1,0 @@
-# Multiple time series prediction 
-
-## Description 
-This homework assignment was made for one utility company. I was required to predict the number of calls in different places for the next year. To solve this problem I used  multiple time series forecasting techniques and a regression model from Scikit-learn. Of course, other models can be applied as well. The main idea of this notebook is to show how we can transform time series data, adding features and considering time series forecasting not as an econometrics task but as ML. This data transformation gives us flexibility to generate new features and apply ML and DL techniques as well.
